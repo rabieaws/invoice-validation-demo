@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-octankportal-dev-94652-authRole",
+      "UnauthRoleArn": "arn:aws:iam::612673515314:role/amplify-octankportal-dev-94652-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::612673515314:role/amplify-octankportal-dev-94652-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-octankportal-dev-94652-deployment",
+      "UnauthRoleName": "amplify-octankportal-dev-94652-unauthRole",
+      "StackName": "amplify-octankportal-dev-94652",
+      "StackId": "arn:aws:cloudformation:ca-central-1:612673515314:stack/amplify-octankportal-dev-94652/f7de92a0-8919-11ed-b155-0edd2a883556",
+      "AmplifyAppId": "d3t739t3l7ufd1"
+    },
+    "categories": {
+      "auth": {
+        "octankportalb7661fc1": {}
+      },
+      "storage": {
+        "s3portalstorage": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}

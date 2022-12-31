@@ -1,0 +1,13 @@
+{
+  "resourceName": "s3portalstorage",
+  "policyUUID": "27289f28",
+  "bucketName": "s3portalstorageoctank",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
